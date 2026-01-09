@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that provides dice rolling and coin flipping functionality for AI assistants like Claude.
 
+![Overview](./unnamed.png)
+
 ---
 
 ## Table of Contents
